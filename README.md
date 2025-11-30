@@ -1,4 +1,4 @@
-# 🛰️ NASA NAVI Data Pipeline (`nasa-navi-data`)
+# 🛰️ NASA NAVI Data Pipeline
 
 **Submodule of the AIRBENDER Project: NASA TEMPO-based Personalized Air Quality Forecasting System**
 
