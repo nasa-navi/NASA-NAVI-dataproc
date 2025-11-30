@@ -5,9 +5,9 @@
 ---
 
 **Members:**  
-- [JIHO RYU](https://github.com/ryujihos0105)  
+- [류레스트검프](https://github.com/ryujihos0105)  
 - [JEONG AH YOON](https://github.com/jjyoon012-git)  
-- [Jihoon Jung ](https://github.com/jeehun3020)
+- [Rain-oppa](https://github.com/jeehun3020)
 
 **[DEMO: AIRBENDER Demo Video (YouTube)](https://www.youtube.com/watch?v=VvfAQruD_C0)**
 
